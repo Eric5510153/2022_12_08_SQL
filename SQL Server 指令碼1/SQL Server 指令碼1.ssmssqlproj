@@ -127,6 +127,18 @@
           <AssociatedConnUserName />
           <FullPath>18merge.sql</FullPath>
         </FileNode>
+        <FileNode Name="19DDL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>19DDL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20DDL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>20DDL.sql</FullPath>
+        </FileNode>
         <FileNode Name="homework.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-8:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>MCSDD-8</AssociatedConnSrvName>
