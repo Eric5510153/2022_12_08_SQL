@@ -151,6 +151,36 @@
           <AssociatedConnUserName />
           <FullPath>22DDL.sql</FullPath>
         </FileNode>
+        <FileNode Name="23View.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>23View.sql</FullPath>
+        </FileNode>
+        <FileNode Name="24T-SQL-1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>24T-SQL-1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="25T-SQL-2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>25T-SQL-2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="26T-SQL-3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>26T-SQL-3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="28T-SQL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>28T-SQL.sql</FullPath>
+        </FileNode>
         <FileNode Name="homework.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-8:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>MCSDD-8</AssociatedConnSrvName>
@@ -160,7 +190,14 @@
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="其他" Type="3" Sorted="true">
-      <Items />
+      <Items>
+        <FileNode Name="27T-SQL.-4sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>27T-SQL.-4sql</FullPath>
+        </FileNode>
+      </Items>
     </LogicalFolder>
   </Items>
 </SqlWorkbenchSqlProject>
