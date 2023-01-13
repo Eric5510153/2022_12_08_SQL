@@ -181,6 +181,78 @@
           <AssociatedConnUserName />
           <FullPath>28T-SQL.sql</FullPath>
         </FileNode>
+        <FileNode Name="29StoredProcedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>29StoredProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="30StoredProcedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>30StoredProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="31pivot.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>31pivot.sql</FullPath>
+        </FileNode>
+        <FileNode Name="32Function.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>32Function.sql</FullPath>
+        </FileNode>
+        <FileNode Name="33Function.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>33Function.sql</FullPath>
+        </FileNode>
+        <FileNode Name="34Function.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-8:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD-8</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>34Function.sql</FullPath>
+        </FileNode>
+        <FileNode Name="35HW2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>35HW2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="36Trigger.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>36Trigger.sql</FullPath>
+        </FileNode>
+        <FileNode Name="37Trigger.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>37Trigger.sql</FullPath>
+        </FileNode>
+        <FileNode Name="37Trigger-2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>37Trigger-2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="38Trigger-3.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>38Trigger-3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="39Trigger-4.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>39Trigger-4.sql</FullPath>
+        </FileNode>
         <FileNode Name="homework.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD-8:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>MCSDD-8</AssociatedConnSrvName>
